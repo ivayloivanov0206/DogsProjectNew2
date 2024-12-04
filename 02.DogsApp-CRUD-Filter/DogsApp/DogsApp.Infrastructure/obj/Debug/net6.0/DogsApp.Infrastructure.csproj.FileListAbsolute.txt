@@ -26,3 +26,18 @@ D:\2023-2024\12Б ИП\Izlojba-dogs-2023\02.DogsApp-CRUD-Filter\DogsApp\DogsApp.
 D:\2023-2024\12Б ИП\Izlojba-dogs-2023\02.DogsApp-CRUD-Filter\DogsApp\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.pdb
 D:\2023-2024\12Б ИП\Izlojba-dogs-2023\02.DogsApp-CRUD-Filter\DogsApp\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.genruntimeconfig.cache
 D:\2023-2024\12Б ИП\Izlojba-dogs-2023\02.DogsApp-CRUD-Filter\DogsApp\DogsApp.Infrastructure\obj\Debug\net6.0\ref\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\_IvayloIvanov12b\_InternetProgramiraneGit\DogsProjectNew2\02.DogsApp-CRUD-Filter\DogsApp\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.deps.json
+C:\Users\Student\Documents\_IvayloIvanov12b\_InternetProgramiraneGit\DogsProjectNew2\02.DogsApp-CRUD-Filter\DogsApp\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.runtimeconfig.json
+C:\Users\Student\Documents\_IvayloIvanov12b\_InternetProgramiraneGit\DogsProjectNew2\02.DogsApp-CRUD-Filter\DogsApp\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\_IvayloIvanov12b\_InternetProgramiraneGit\DogsProjectNew2\02.DogsApp-CRUD-Filter\DogsApp\DogsApp.Infrastructure\bin\Debug\net6.0\DogsApp.Infrastructure.pdb
+C:\Users\Student\Documents\_IvayloIvanov12b\_InternetProgramiraneGit\DogsProjectNew2\02.DogsApp-CRUD-Filter\DogsApp\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\_IvayloIvanov12b\_InternetProgramiraneGit\DogsProjectNew2\02.DogsApp-CRUD-Filter\DogsApp\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\_IvayloIvanov12b\_InternetProgramiraneGit\DogsProjectNew2\02.DogsApp-CRUD-Filter\DogsApp\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\_IvayloIvanov12b\_InternetProgramiraneGit\DogsProjectNew2\02.DogsApp-CRUD-Filter\DogsApp\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Student\Documents\_IvayloIvanov12b\_InternetProgramiraneGit\DogsProjectNew2\02.DogsApp-CRUD-Filter\DogsApp\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\_IvayloIvanov12b\_InternetProgramiraneGit\DogsProjectNew2\02.DogsApp-CRUD-Filter\DogsApp\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.sourcelink.json
+C:\Users\Student\Documents\_IvayloIvanov12b\_InternetProgramiraneGit\DogsProjectNew2\02.DogsApp-CRUD-Filter\DogsApp\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\_IvayloIvanov12b\_InternetProgramiraneGit\DogsProjectNew2\02.DogsApp-CRUD-Filter\DogsApp\DogsApp.Infrastructure\obj\Debug\net6.0\refint\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\_IvayloIvanov12b\_InternetProgramiraneGit\DogsProjectNew2\02.DogsApp-CRUD-Filter\DogsApp\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.pdb
+C:\Users\Student\Documents\_IvayloIvanov12b\_InternetProgramiraneGit\DogsProjectNew2\02.DogsApp-CRUD-Filter\DogsApp\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Student\Documents\_IvayloIvanov12b\_InternetProgramiraneGit\DogsProjectNew2\02.DogsApp-CRUD-Filter\DogsApp\DogsApp.Infrastructure\obj\Debug\net6.0\ref\DogsApp.Infrastructure.dll

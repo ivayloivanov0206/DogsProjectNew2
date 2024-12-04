@@ -3898,6 +3898,25 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "DogsApp.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DogsApp.Infrastructure": "1.0.0",
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.15",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.15",
+          "Microsoft.AspNetCore.Identity.UI": "6.0.15",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.15",
+          "Microsoft.EntityFrameworkCore.Tools": "6.0.15",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.16"
+        },
+        "compile": {
+          "bin/placeholder/DogsApp.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DogsApp.Core.dll": {}
+        }
+      },
       "DogsApp.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -11133,6 +11152,11 @@
         "system.xml.xdocument.nuspec"
       ]
     },
+    "DogsApp.Core/1.0.0": {
+      "type": "project",
+      "path": "../DogsApp.Core/DogsApp.Core.csproj",
+      "msbuildProject": "../DogsApp.Core/DogsApp.Core.csproj"
+    },
     "DogsApp.Infrastructure/1.0.0": {
       "type": "project",
       "path": "../DogsApp.Infrastructure/DogsApp.Infrastructure.csproj",
@@ -11141,6 +11165,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "DogsApp.Core >= 1.0.0",
       "DogsApp.Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.15",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.15",
@@ -11151,23 +11176,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\Student\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2023-2024\\12Б ИП\\Izlojba-dogs-2023\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\DogsApp.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\DogsApp.csproj",
       "projectName": "DogsApp",
-      "projectPath": "D:\\2023-2024\\12Б ИП\\Izlojba-dogs-2023\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\DogsApp.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\2023-2024\\12Б ИП\\Izlojba-dogs-2023\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\obj\\",
+      "projectPath": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\DogsApp.csproj",
+      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -11182,8 +11207,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\2023-2024\\12Б ИП\\Izlojba-dogs-2023\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj": {
-              "projectPath": "D:\\2023-2024\\12Б ИП\\Izlojba-dogs-2023\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj"
+            "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Core\\DogsApp.Core.csproj": {
+              "projectPath": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Core\\DogsApp.Core.csproj"
+            },
+            "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj"
             }
           }
         }
@@ -11192,6 +11220,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -11242,7 +11275,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
