@@ -3,36 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\dogsapp\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|c:\\users\\student\\documents\\_ivayloivanov12b\\_internetprogramiranegit\\dogsprojectnew2\\02.dogsapp-crud-filter\\dogsapp\\dogsapp\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|c:\\users\\student\\documents\\_ivayloivanov12b\\_internetprogramiranegit\\dogsprojectnew2\\02.dogsapp-crud-filter\\dogsapp\\dogsapp\\views\\dog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\views\\dog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|c:\\users\\student\\documents\\_ivayloivanov12b\\_internetprogramiranegit\\dogsprojectnew2\\02.dogsapp-crud-filter\\dogsapp\\dogsapp\\models\\dog\\dogcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\models\\dog\\dogcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|c:\\users\\student\\documents\\_ivayloivanov12b\\_internetprogramiranegit\\dogsprojectnew2\\02.dogsapp-crud-filter\\dogsapp\\dogsapp\\models\\dog\\dogeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\models\\dog\\dogeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991C3533-0B61-4D5C-99C4-34E0EAED71D2}|DogsApp.Core\\DogsApp.Core.csproj|C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\dogsapp.core\\services\\dogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991C3533-0B61-4D5C-99C4-34E0EAED71D2}|DogsApp.Core\\DogsApp.Core.csproj|solutionrelative:dogsapp.core\\services\\dogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991C3533-0B61-4D5C-99C4-34E0EAED71D2}|DogsApp.Core\\DogsApp.Core.csproj|C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\dogsapp.core\\contracts\\idogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991C3533-0B61-4D5C-99C4-34E0EAED71D2}|DogsApp.Core\\DogsApp.Core.csproj|solutionrelative:dogsapp.core\\contracts\\idogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|c:\\users\\student\\documents\\_ivayloivanov12b\\_internetprogramiranegit\\dogsprojectnew2\\02.dogsapp-crud-filter\\dogsapp\\dogsapp\\models\\breed\\breedpairviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\models\\breed\\breedpairviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\dogsapp\\dogsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\dogsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\dogsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{991C3533-0B61-4D5C-99C4-34E0EAED71D2}|DogsApp.Core\\DogsApp.Core.csproj|c:\\users\\student\\documents\\_ivayloivanov12b\\_internetprogramiranegit\\dogsprojectnew2\\02.dogsapp-crud-filter\\dogsapp\\dogsapp.core\\services\\dogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{991C3533-0B61-4D5C-99C4-34E0EAED71D2}|DogsApp.Core\\DogsApp.Core.csproj|solutionrelative:dogsapp.core\\services\\dogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{991C3533-0B61-4D5C-99C4-34E0EAED71D2}|DogsApp.Core\\DogsApp.Core.csproj|c:\\users\\student\\documents\\_ivayloivanov12b\\_internetprogramiranegit\\dogsprojectnew2\\02.dogsapp-crud-filter\\dogsapp\\dogsapp.core\\contracts\\ibreedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991C3533-0B61-4D5C-99C4-34E0EAED71D2}|DogsApp.Core\\DogsApp.Core.csproj|solutionrelative:dogsapp.core\\contracts\\ibreedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{991C3533-0B61-4D5C-99C4-34E0EAED71D2}|DogsApp.Core\\DogsApp.Core.csproj|c:\\users\\student\\documents\\_ivayloivanov12b\\_internetprogramiranegit\\dogsprojectnew2\\02.dogsapp-crud-filter\\dogsapp\\dogsapp.core\\dogsapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{991C3533-0B61-4D5C-99C4-34E0EAED71D2}|DogsApp.Core\\DogsApp.Core.csproj|solutionrelative:dogsapp.core\\dogsapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{991C3533-0B61-4D5C-99C4-34E0EAED71D2}|DogsApp.Core\\DogsApp.Core.csproj|c:\\users\\student\\documents\\_ivayloivanov12b\\_internetprogramiranegit\\dogsprojectnew2\\02.dogsapp-crud-filter\\dogsapp\\dogsapp.core\\services\\breedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991C3533-0B61-4D5C-99C4-34E0EAED71D2}|DogsApp.Core\\DogsApp.Core.csproj|solutionrelative:dogsapp.core\\services\\breedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|c:\\users\\student\\documents\\_ivayloivanov12b\\_internetprogramiranegit\\dogsprojectnew2\\02.dogsapp-crud-filter\\dogsapp\\dogsapp\\dogsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\dogsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|c:\\users\\student\\documents\\_ivayloivanov12b\\_internetprogramiranegit\\dogsprojectnew2\\02.dogsapp-crud-filter\\dogsapp\\dogsapp.infrastructure\\data\\infrastructure\\applicationbuilderextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|solutionrelative:dogsapp.infrastructure\\data\\infrastructure\\applicationbuilderextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{991C3533-0B61-4D5C-99C4-34E0EAED71D2}|DogsApp.Core\\DogsApp.Core.csproj|c:\\users\\student\\documents\\_ivayloivanov12b\\_internetprogramiranegit\\dogsprojectnew2\\02.dogsapp-crud-filter\\dogsapp\\dogsapp.core\\contracts\\idogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{991C3533-0B61-4D5C-99C4-34E0EAED71D2}|DogsApp.Core\\DogsApp.Core.csproj|solutionrelative:dogsapp.core\\contracts\\idogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|c:\\users\\student\\documents\\_ivayloivanov12b\\_internetprogramiranegit\\dogsprojectnew2\\02.dogsapp-crud-filter\\dogsapp\\dogsapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|solutionrelative:dogsapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\dogsapp.infrastructure\\dogsapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|solutionrelative:dogsapp.infrastructure\\dogsapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|c:\\users\\student\\documents\\_ivayloivanov12b\\_internetprogramiranegit\\dogsprojectnew2\\02.dogsapp-crud-filter\\dogsapp\\dogsapp.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|solutionrelative:dogsapp.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|c:\\users\\student\\documents\\_ivayloivanov12b\\_internetprogramiranegit\\dogsprojectnew2\\02.dogsapp-crud-filter\\dogsapp\\dogsapp.infrastructure\\data\\domain\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|solutionrelative:dogsapp.infrastructure\\data\\domain\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|c:\\users\\student\\documents\\_ivayloivanov12b\\_internetprogramiranegit\\dogsprojectnew2\\02.dogsapp-crud-filter\\dogsapp\\dogsapp.infrastructure\\data\\domain\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC10E583-C05C-4788-9AFF-82ED74EC1354}|DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|solutionrelative:dogsapp.infrastructure\\data\\domain\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\dogsapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2B50B2BE-0CB4-4C09-9EB5-7886CD7B2754}|DogsApp\\DogsApp.csproj|solutionrelative:dogsapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991C3533-0B61-4D5C-99C4-34E0EAED71D2}|DogsApp.Core\\DogsApp.Core.csproj|C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\dogsapp.core\\dogsapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{991C3533-0B61-4D5C-99C4-34E0EAED71D2}|DogsApp.Core\\DogsApp.Core.csproj|solutionrelative:dogsapp.core\\dogsapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,12 +86,233 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\Views\\Dog\\Create.cshtml",
+              "RelativeDocumentMoniker": "DogsApp\\Views\\Dog\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\Views\\Dog\\Create.cshtml",
+              "RelativeToolTip": "DogsApp\\Views\\Dog\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T09:15:56.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DogsApp.Core",
+              "Title": "DogEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\Models\\Dog\\DogEditViewModel.cs",
+              "RelativeDocumentMoniker": "DogsApp\\Models\\Dog\\DogEditViewModel.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\Models\\Dog\\DogEditViewModel.cs",
+              "RelativeToolTip": "DogsApp\\Models\\Dog\\DogEditViewModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:09:25.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DogCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\Models\\Dog\\DogCreateViewModel.cs",
+              "RelativeDocumentMoniker": "DogsApp\\Models\\Dog\\DogCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\Models\\Dog\\DogCreateViewModel.cs",
+              "RelativeToolTip": "DogsApp\\Models\\Dog\\DogCreateViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:08:07.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DogController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\Controllers\\DogController.cs",
+              "RelativeDocumentMoniker": "DogsApp\\Controllers\\DogController.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\Controllers\\DogController.cs",
+              "RelativeToolTip": "DogsApp\\Controllers\\DogController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwD8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:20:33.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BreedPairViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\Models\\Breed\\BreedPairViewModel.cs",
+              "RelativeDocumentMoniker": "DogsApp\\Models\\Breed\\BreedPairViewModel.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\Models\\Breed\\BreedPairViewModel.cs",
+              "RelativeToolTip": "DogsApp\\Models\\Breed\\BreedPairViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:01:18.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BreedService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Core\\Services\\BreedService.cs",
+              "RelativeDocumentMoniker": "DogsApp.Core\\Services\\BreedService.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Core\\Services\\BreedService.cs",
+              "RelativeToolTip": "DogsApp.Core\\Services\\BreedService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:23:02.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDogService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Core\\Contracts\\IDogService.cs",
+              "RelativeDocumentMoniker": "DogsApp.Core\\Contracts\\IDogService.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Core\\Contracts\\IDogService.cs",
+              "RelativeToolTip": "DogsApp.Core\\Contracts\\IDogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:24:16.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DogService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Core\\Services\\DogService.cs",
+              "RelativeDocumentMoniker": "DogsApp.Core\\Services\\DogService.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Core\\Services\\DogService.cs",
+              "RelativeToolTip": "DogsApp.Core\\Services\\DogService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:27:45.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBreedService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Core\\Contracts\\IBreedService.cs",
+              "RelativeDocumentMoniker": "DogsApp.Core\\Contracts\\IBreedService.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Core\\Contracts\\IBreedService.cs",
+              "RelativeToolTip": "DogsApp.Core\\Contracts\\IBreedService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:22:47.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\Program.cs",
+              "RelativeDocumentMoniker": "DogsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\Program.cs",
+              "RelativeToolTip": "DogsApp\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:20:33.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationBuilderExtention.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Infrastructure\\Data\\Infrastructure\\ApplicationBuilderExtention.cs",
+              "RelativeDocumentMoniker": "DogsApp.Infrastructure\\Data\\Infrastructure\\ApplicationBuilderExtention.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Infrastructure\\Data\\Infrastructure\\ApplicationBuilderExtention.cs",
+              "RelativeToolTip": "DogsApp.Infrastructure\\Data\\Infrastructure\\ApplicationBuilderExtention.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvygAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:15:34.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DogsApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DogsApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:14:25.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DogsApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\DogsApp.csproj",
+              "RelativeDocumentMoniker": "DogsApp\\DogsApp.csproj",
+              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\DogsApp.csproj",
+              "RelativeToolTip": "DogsApp\\DogsApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T06:48:08.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DogsApp.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DogsApp.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:13:34.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Infrastructure\\Data\\Domain\\Dog.cs",
+              "RelativeDocumentMoniker": "DogsApp.Infrastructure\\Data\\Domain\\Dog.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Infrastructure\\Data\\Domain\\Dog.cs",
+              "RelativeToolTip": "DogsApp.Infrastructure\\Data\\Domain\\Dog.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:02:43.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Breed.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Infrastructure\\Data\\Domain\\Breed.cs",
+              "RelativeDocumentMoniker": "DogsApp.Infrastructure\\Data\\Domain\\Breed.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Infrastructure\\Data\\Domain\\Breed.cs",
+              "RelativeToolTip": "DogsApp.Infrastructure\\Data\\Domain\\Breed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:03:03.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\appsettings.json",
+              "RelativeDocumentMoniker": "DogsApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\appsettings.json",
+              "RelativeToolTip": "DogsApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T06:20:33.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DogsApp.Core.csproj",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Core\\DogsApp.Core.csproj",
               "RelativeDocumentMoniker": "DogsApp.Core\\DogsApp.Core.csproj",
               "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Core\\DogsApp.Core.csproj",
@@ -59,91 +324,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DogsApp",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\DogsApp.csproj",
-              "RelativeDocumentMoniker": "DogsApp\\DogsApp.csproj",
-              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\DogsApp.csproj",
-              "RelativeToolTip": "DogsApp\\DogsApp.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-04T06:48:08.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DogController.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\Controllers\\DogController.cs",
-              "RelativeDocumentMoniker": "DogsApp\\Controllers\\DogController.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\Controllers\\DogController.cs",
-              "RelativeToolTip": "DogsApp\\Controllers\\DogController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T06:20:33.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\Program.cs",
-              "RelativeDocumentMoniker": "DogsApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\Program.cs",
-              "RelativeToolTip": "DogsApp\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAACMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T06:20:33.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DogService.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Core\\Services\\DogService.cs",
-              "RelativeDocumentMoniker": "DogsApp.Core\\Services\\DogService.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Core\\Services\\DogService.cs",
-              "RelativeToolTip": "DogsApp.Core\\Services\\DogService.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAqwBkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T06:27:45.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IDogService.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Core\\Contracts\\IDogService.cs",
-              "RelativeDocumentMoniker": "DogsApp.Core\\Contracts\\IDogService.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Core\\Contracts\\IDogService.cs",
-              "RelativeToolTip": "DogsApp.Core\\Contracts\\IDogService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T06:24:16.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "DogsApp.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj",
               "RelativeDocumentMoniker": "DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj",
               "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj",
               "RelativeToolTip": "DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-04T06:20:33.134Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\appsettings.json",
-              "RelativeDocumentMoniker": "DogsApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\Student\\Documents\\_IvayloIvanov12b\\_InternetProgramiraneGit\\DogsProjectNew2\\02.DogsApp-CRUD-Filter\\DogsApp\\DogsApp\\appsettings.json",
-              "RelativeToolTip": "DogsApp\\appsettings.json",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-04T06:20:33.134Z"
             }
           ]
         }

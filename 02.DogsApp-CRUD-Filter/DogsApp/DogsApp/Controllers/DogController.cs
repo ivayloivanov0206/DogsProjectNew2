@@ -2,20 +2,25 @@
 using DogsApp.Core.Contracts;
 using DogsApp.Infrastructure.Data;
 using DogsApp.Infrastructure.Data.Domain;
+using DogsApp.Models.Breed;
 using DogsApp.Models.Dog;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ApplicationModels;
+
+using System.Security.Cryptography.Xml;
 
 namespace DogsApp.Controllers
 {
     public class DogController : Controller
     {
         private readonly IDogService _dogService;
+        private readonly IBreedService _breedService;
 
-        public DogController(IDogService dogsService)
+        public DogController(IDogService dogsService, IBreedService breedService)
         {
             this._dogService = dogsService;
+            this._breedService = breedService;
         }
        
 
@@ -55,20 +60,28 @@ namespace DogsApp.Controllers
         // GET: DogController/Create
         public ActionResult Create()
         {
-            return View();
+            var Dog = new DogCreateViewModel();
+            Dog.Breeds = _breedService.GetBreeds()
+                .Select(c => new BreedPairViewModel()
+                {
+                    Id = c.Id,
+                    Name = c.Name
+                })
+                .ToList();
+            return View(dog);
         }
 
         // POST: DogController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(DogCreateViewModel bindingModel)
+        public ActionResult Create([FromForm] DogCreateViewModel dog)
         {
             if (ModelState.IsValid)
             {
-                var created = _dogService.Create(bindingModel.Name, bindingModel.Age, bindingModel.Breed,  bindingModel.Picture);
-                if (created)
+                var created = _dogService.Create(dog.Name, dog.Age, dog.BreedId, dog.Picture);
+                if (createdId)
                 {
-                    return this.RedirectToAction("Success");
+                    return RedirectToAction(nameof(Index));
                 }
             }
             return this.View();
@@ -94,7 +107,7 @@ namespace DogsApp.Controllers
                 Id = item.Id,
                 Name = item.Name,
                 Age = item.Age,
-                Breed = item.Breed,
+                BreedId = item.Breed,
                 Picture = item.Picture
             };
             return View(dog);
@@ -129,7 +142,7 @@ namespace DogsApp.Controllers
                 Id = item.Id,
                 Name = item.Name,
                 Age = item.Age,
-                Breed = item.Breed,
+                BreedId = item.Breed,
                 Picture = item.Picture
             };
             return View(dog);

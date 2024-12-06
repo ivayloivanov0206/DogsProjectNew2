@@ -143,6 +143,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Arch.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[2.1.15, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.15, )"
